@@ -1,4 +1,4 @@
-# 📊 End-to-End Customer Churn Analysis | MySQL + SQL + Power BI
+# 📊 End-to-End Customer Churn Analysis | MySQL +  Power BI
 
 ![Customer Churn Dashboard](images/churn_dashboard.png)
 
@@ -27,7 +27,6 @@ Customer churn directly impacts a company's revenue and profitability. Understan
 ## 🛠️ Tech Stack
 
 - **MySQL**
-- **SQL**
 - **Power BI**
 - **Power Query**
 - **DAX**
